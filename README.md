@@ -29,6 +29,28 @@ source .venv/bin/activate  # Linux/Mac
 
 # install dependencies
 pip install -r requirements.txt
+```
+## 🛠 Tech Stack
 
-# run the app
-streamlit run app.py
+- Streamlit
+ – UI framework
+
+- Pandas
+ – data handling
+
+- Matplotlib
+ – charts
+
+- FPDF2
+ – PDF export
+
+## 🔮 Future Improvements
+
+- 🌍 Integrate Google Places API for real attraction suggestions.
+
+- 💱 Add currency conversion via live exchange rate APIs.
+
+- 📤 Shareable links to plans (Supabase/Gist integration).
+
+- 🔗 Direct integration with TravPlan mobile app.
+
